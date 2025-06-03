@@ -1,6 +1,6 @@
 # Financial-Forecasting-pipeline
 I work on build a financial forecasting pipeline in Python using stock data 
-Start Financial Forecasting Pipeline
+
 In this project
 Explore the Data (EDA)
   - Draw graphs to see trends and patterns
